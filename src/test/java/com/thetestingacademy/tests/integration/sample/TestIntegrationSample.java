@@ -12,6 +12,7 @@ public class TestIntegrationSample {
         System.out.println("Create booking");
     }
 
+
     @Test(groups = "qa",priority = 2)
     @Owner("Preeti Silla")
     @Description("Test to Get Booking")
